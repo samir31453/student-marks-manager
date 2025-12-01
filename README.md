@@ -43,7 +43,7 @@ This program is written in C and helps manage basic student data. It takes the n
 
 ---
 
-📌 Features
+ Features
 
 - Accepts input for multiple students
 - Stores student data using "struct"
@@ -53,7 +53,7 @@ This program is written in C and helps manage basic student data. It takes the n
 
 ---
 
-🧾 How the Program Works
+ How the Program Works
 
 1. The user enters the number of students.
 2. For each student:
@@ -64,7 +64,7 @@ This program is written in C and helps manage basic student data. It takes the n
 
 ---
 
-💻 Sample Output
+ Sample Output
 
 Enter number of students: 2
 
@@ -84,7 +84,7 @@ Average Marks: 70.00
 
 ---
 
-🔧 How to Run
+ How to Run
 
 1. Save the code as:
 "student_marks_manager.c"
@@ -97,7 +97,7 @@ Average Marks: 70.00
 
 ---
 
-📚 Concepts Used
+ Concepts Used
 
 - "struct" in C
 - Arrays
