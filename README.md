@@ -40,9 +40,7 @@ int main() {
 Student Marks Manager (C Program)
 
 This program is written in C and helps manage basic student data. It takes the name and marks of students and calculates their average marks based on 5 subjects.
-
 ---
-
  Features
 
 - Accepts input for multiple students
@@ -50,9 +48,7 @@ This program is written in C and helps manage basic student data. It takes the n
 - Takes marks for 5 subjects
 - Calculates average marks for each student
 - Displays a simple student report
-
 ---
-
  How the Program Works
 
 1. The user enters the number of students.
@@ -61,8 +57,6 @@ This program is written in C and helps manage basic student data. It takes the n
    - Enter 5 subject marks
 3. The program calculates "average = sum / 5".
 4. Finally, it prints the name and average marks of each student.
-
----
 
  Sample Output
 
@@ -92,10 +86,8 @@ Average Marks: 70.00
 2. Compile the program using:
 "gcc student_marks_manager.c -o student"
 
-3. Run the program:
+4. Run the program:
 "./student"
-
----
 
  Concepts Used
 
